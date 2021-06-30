@@ -1,0 +1,5 @@
+print("A resposta de 50+90 é ",50+90)
+print("A resposta de 30-2 é ",30-2 )
+print("A resposta de 32*2 é ",32*2)
+print("A resposta de 50/2 é ",50/2)
+print("A resposta de 10%3 é ",10%3)
